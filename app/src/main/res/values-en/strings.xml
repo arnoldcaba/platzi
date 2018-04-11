@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="text_button_login">Login</string>
+    <string name="dont_have_account">¿no tienes cuenta?</string>
+    <string name="create_here">crea una aquí</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_user">User</string>
+    <string name="hint_confirm_password">Confir Password</string>
+    <string name="text_button_join">JoinUs</string>
+    <string name="firstword_card">Hace</string>
+    <string name="timecard_card">4 dias</string>
+    <string name="tab_search">Buscar</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_profile">Profile</string>
+    <string name="login_error">Error has ocured: </string>
+    <string name="hint_description">Descripción</string>
+    <string name="create_post">crear post</string>
+    <string name="facebook_app_id">2064616373751106</string>
+    <string name="fb_login_protocol_scheme">fb2064616373751106</string>
+    <string name="menu_sign_out">Sign out</string>
+    <string name="menu_about">Acerca de</string>
+</resources>

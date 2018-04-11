@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "693897411740",
+    "firebase_url": "https://platzigram-cab.firebaseio.com",
+    "project_id": "platzigram-cab",
+    "storage_bucket": "platzigram-cab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693897411740:android:ba815e885de3a87f",
+        "android_client_info": {
+          "package_name": "com.arnoldcaba.platzigram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693897411740-esujnlp1e87r6rcqio08n11g6j3j6q6j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arnoldcaba.platzigram",
+            "certificate_hash": "e7e6995d9da404585f036e2d577fb2c310739f7d"
+          }
+        },
+        {
+          "client_id": "693897411740-lo6a4a6bibibcent1to7m0ed1uj9vngu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMo6QRzs13atRcYrBL-9DU5rRnPoqfQuE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693897411740-lo6a4a6bibibcent1to7m0ed1uj9vngu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
